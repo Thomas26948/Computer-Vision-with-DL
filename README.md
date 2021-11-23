@@ -6,7 +6,7 @@ you'll find an implementation of the paper
 on MNIST
 
 ## Results : 
-  
+  Compressed image | Image in output of the model | Real image | interpolation algorithm image
 
   ![Super Resolution](SRCNN.png)
 
